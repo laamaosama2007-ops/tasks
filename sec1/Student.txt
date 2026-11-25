@@ -1,0 +1,3 @@
+Full Name: lama
+ID: 9999
+Grade: 70
